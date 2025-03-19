@@ -29,4 +29,6 @@ The app is available on the Google Play Store: [Nicotine Free Timer](https://pla
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is proprietary software. All rights reserved. See the LICENSE file for details.
+
+This software may not be copied, modified, or distributed without explicit permission from the copyright holder. 
