@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nicotine Free Record Times</string>
+    <string name="app_title">Nicotine Free Record Times!</string>
+    <string name="timer_button">Start</string>
+    <string name="high_scores">Your Nicotine-Free Records</string>
+    <string name="initial_time">00:00:00</string>
+    <string name="no_record">No nicotine-free records yet</string>
+    <string name="tap_instruction">Tap the button to start/stop tracking your nicotine-free time</string>
+    <string name="welcome_title">Welcome to Nicotine Free Tracker!</string>
+    <string name="welcome_description">Track how long you\'ve been nicotine-free and beat your previous records!</string>
+    <string name="enter_name">Enter your name:</string>
+    <string name="name_hint">Your name</string>
+    <string name="continue_button">Start My Nicotine-Free Journey</string>
+    <string name="nicotine_type_label">What are you quitting?</string>
+    <string name="nicotine_cigarettes">Cigarettes (Smoking)</string>
+    <string name="nicotine_vaping">Vaping</string>
+    <string name="nicotine_pouches">Snoos/Pouches</string>
+    <string name="nicotine_gum">Nicotine Gum</string>
+    <string name="nicotine_other">Other Nicotine Products</string>
+    <string name="free_from">free from</string>
+    <string name="reset_app">Reset App</string>
+</resources> 
